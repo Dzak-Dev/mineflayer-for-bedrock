@@ -4,7 +4,8 @@
 
 Create powerful, autonomous Minecraft Bedrock bots with a familiar, high-level API. If you've used [Mineflayer](https://github.com/PrismarineJS/mineflayer) for Java Edition, you'll feel right at home.
 
-Still under development, theres a lot of stuff that needs to be added, not yet published too. May have a lot of bugs, i am still testing it.
+Still under development, theres a lot of stuff to fix and to add, the bedrock protocol is a mess to work with and the multiple versions just makes it insanely hard, but its been pretty fun, ill fix everything soon, hopyfully.
+bedrock protocol is a bit behind, so im kinda stuck on that right now
 
 ---
 
