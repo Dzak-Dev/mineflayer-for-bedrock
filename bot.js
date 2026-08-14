@@ -21,7 +21,8 @@ const BOT_CONFIG = {
   port: process.env.SERVER_PORT ? parseInt(process.env.SERVER_PORT, 10) : 19204, // Port dikunci ke Integer
   username: process.env.BOT_NAME || 'BedrockBot',               // Nama Bot
   offline: true,                                                 // Offline/Cracked (Tanpa Xbox Live)
-  skipPing: true,                                                // Buka true supaya tidak terikat ke port default 19132[cite: 2]
+  skipPing: true,                                              // Buka true supaya tidak terikat ke port default 19132[cite: 2]
+  version: '1.26.40',
   physicsEnabled: false                                          // Matikan fizik elak daripada di-kick (bad_packet)[cite: 2]
 };
 
