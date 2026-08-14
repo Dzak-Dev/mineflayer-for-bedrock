@@ -22,7 +22,7 @@ const BOT_CONFIG = {
   username: process.env.BOT_NAME || 'BedrockBot',               // Nama Bot
   offline: true,                                                 // Offline/Cracked (Tanpa Xbox Live)
   skipPing: true,                                              // Buka true supaya tidak terikat ke port default 19132[cite: 2]
-  version: '1.26.0',
+  version: '1.26.40',
   physicsEnabled: false                                          // Matikan fizik elak daripada di-kick (bad_packet)[cite: 2]
 };
 
