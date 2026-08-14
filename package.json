@@ -18,7 +18,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "bedrock-protocol": "^3.0.0",
+    "bedrock-protocol": "github:PrismarineJS/bedrock-protocol",
     "prismarine-registry": "^1.7.0",
     "prismarine-item": "^1.14.0",
     "prismarine-block": "^1.17.0",
